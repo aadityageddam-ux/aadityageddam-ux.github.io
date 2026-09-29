@@ -1,2 +1,3 @@
 # aadityageddam-ux.github.io
-My personal GitHub Pages site
+
+Redirects to my personal site: https://aaditya-site-zeta.vercel.app
